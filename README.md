@@ -9,9 +9,9 @@
 ## 职位信息
 
 - [技术类](./data/技术.md)
-- [产品经理](./data/产品经理.md)
-- [运营](./data/运营.md)
-- [行政](./data/行政.md)
+- [产品经理](https://talent.baidu.com/external/baidu/index.html#/social/2/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86)
+- [运营](https://talent.baidu.com/external/baidu/index.html#/social/2/%E8%BF%90%E8%90%A5)
+- [市场与销售](https://talent.baidu.com/external/baidu/index.html#/social/2/%E9%94%80%E5%94%AE)
 
 > 点击官网，遇见更多心仪岗位：https://talent.baidu.com/
 
